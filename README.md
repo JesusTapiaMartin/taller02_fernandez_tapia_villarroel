@@ -49,10 +49,10 @@ Metodo menú
 # Pruebas Unitarias y compilacion
 
 ## Jesús Tapia
-file:///home/jesus/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-09-28%2010-18-22.png
-file:///home/jesus/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-09-28%2010-18-29.png
 
+![Captura desde 2023-09-28 10-18-22](https://github.com/JesusTapiaMartin/taller02_fernandez_tapia_villarroel/assets/142464450/b43f48f9-7d1c-4b38-8ca5-cc1131e6dbb5)
 
+![Captura desde 2023-09-28 10-18-29](https://github.com/JesusTapiaMartin/taller02_fernandez_tapia_villarroel/assets/142464450/a288f5af-bf15-4c1e-8e22-47ab6ca95663)
 
 
 
