@@ -46,11 +46,13 @@ Metodo menú
 	Un metodo el cual llame a todos los métodos para que el usuario pueda interactuar en el.
 
 
-# Pruebas Unitarias
+# Pruebas Unitarias y compilacion
 
 ## Jesús Tapia
 
+![Captura desde 2023-09-28 10-18-22](https://github.com/JesusTapiaMartin/taller02_fernandez_tapia_villarroel/assets/142464450/b43f48f9-7d1c-4b38-8ca5-cc1131e6dbb5)
 
+![Captura desde 2023-09-28 10-18-29](https://github.com/JesusTapiaMartin/taller02_fernandez_tapia_villarroel/assets/142464450/a288f5af-bf15-4c1e-8e22-47ab6ca95663)
 
 
 
