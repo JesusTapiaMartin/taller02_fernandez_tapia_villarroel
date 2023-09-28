@@ -54,6 +54,7 @@ Metodo menú
 
 ![Captura desde 2023-09-28 10-18-29](https://github.com/JesusTapiaMartin/taller02_fernandez_tapia_villarroel/assets/142464450/a288f5af-bf15-4c1e-8e22-47ab6ca95663)
 
+![image](https://github.com/JesusTapiaMartin/taller02_fernandez_tapia_villarroel/assets/142508978/86dc6ed3-4df9-4897-9adc-efa4145c1118)
 
 
 ## Benjamin Fernandez
@@ -65,5 +66,7 @@ Metodo menú
 ## Yoandri Villarroel
 
 ![image](https://github.com/JesusTapiaMartin/taller02_fernandez_tapia_villarroel/assets/142508978/960c3684-c74d-4e03-b517-a00602134b69)
+
+![image](https://github.com/JesusTapiaMartin/taller02_fernandez_tapia_villarroel/assets/142508978/d8c5417d-18e0-4165-a56e-40f8b7bb23a2)
 
 
