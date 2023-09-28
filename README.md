@@ -61,6 +61,11 @@ Metodo menú
 
 
 
+![WhatsApp Image 2023-09-28 at 10 50 49](https://github.com/JesusTapiaMartin/taller02_fernandez_tapia_villarroel/assets/142475169/a2960016-471f-4e91-82f7-c48898b35a73)
+
+![WhatsApp Image 2023-09-28 at 10 49 35](https://github.com/JesusTapiaMartin/taller02_fernandez_tapia_villarroel/assets/142475169/4de64c02-6a46-44b0-bd7e-6efcd1b2a4e7)
+
+
 
 
 ## Yoandri Villarroel
