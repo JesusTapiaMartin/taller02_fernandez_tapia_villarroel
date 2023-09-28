@@ -1,39 +1,6 @@
 import java.util.Scanner;
 public class Reservar {
 
-    public static void main(String[] args) {
-        String[][] hotel = crearMatriz();
-        mostrarHotel(hotel);
-        String[] reserva = reservarHabitacion(hotel);
-        confimarReserva(hotel, reserva[0], reserva[1], reserva[2]);
-        mostrarHotel(hotel);
-    }
-    //=================== CREAR MATRIZ ===================
-    public static String[][] crearMatriz() {
-        String[][] hotel = new String[10][4];
-
-        for (int i = 0; i < 10; i++) {
-            hotel[i][0] = Integer.toString(i + 1);
-            hotel[i][1] = "Disponible";
-            hotel[i][2] = "0";
-            hotel[i][3] = "Sin alimentación";
-        }
-
-        return hotel;
-    }
-
-    // =================== MOSTRAR HOTEL ===================
-    public static void mostrarHotel(String[][] hotel) {
-        for (int i = 0; i < hotel.length; i++) {
-            for (int j = 0; j < hotel[i].length; j++) {
-                System.out.print(hotel[i][j] + "\t\t\t");
-
-            }
-            System.out.println();
-        }
-    }
-
-
 
     //=================== RESERVAR HABITACIÓN ===================
     public static String[] reservarHabitacion(String[][] hotel) {
@@ -54,7 +21,7 @@ public class Reservar {
 
 
     //=================== CONFIRMAR RESERVA ===================
-    public static void confimarReserva( String[][] hotel, String habitacion,
+    public static void confirmarReserva( String[][] hotel, String habitacion,
                                         String noches   , String alimentacion){
         Scanner lector = new Scanner(System.in);
 
