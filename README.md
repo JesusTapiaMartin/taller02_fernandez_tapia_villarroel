@@ -44,4 +44,24 @@ Método reiniciarEstados
 
 Metodo menú
 	Un metodo el cual llame a todos los métodos para que el usuario pueda interactuar en el.
-	
+
+
+# Pruebas Unitarias
+
+## Jesús Tapia
+
+
+
+
+
+## Benjamin Fernandez
+
+
+
+
+
+## Yoandri Villarroel
+
+![image](https://github.com/JesusTapiaMartin/taller02_fernandez_tapia_villarroel/assets/142508978/960c3684-c74d-4e03-b517-a00602134b69)
+
+
