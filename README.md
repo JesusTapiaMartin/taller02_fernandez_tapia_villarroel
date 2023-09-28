@@ -46,9 +46,11 @@ Metodo menú
 	Un metodo el cual llame a todos los métodos para que el usuario pueda interactuar en el.
 
 
-# Pruebas Unitarias
+# Pruebas Unitarias y compilacion
 
 ## Jesús Tapia
+file:///home/jesus/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-09-28%2010-18-22.png
+file:///home/jesus/Im%C3%A1genes/Capturas%20de%20pantalla/Captura%20desde%202023-09-28%2010-18-29.png
 
 
 
