@@ -20,7 +20,7 @@ public class Reservar {
 
 
     //=================== CONFIRMAR RESERVA ===================
-    public static void confimarReserva( String[][] hotel, String habitacion,
+    public static void confirmarReserva( String[][] hotel, String habitacion,
                                         String noches   , String alimentacion){
         Scanner lector = new Scanner(System.in);
 
