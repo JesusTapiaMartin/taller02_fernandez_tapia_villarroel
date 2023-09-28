@@ -5,7 +5,6 @@ public class Matriz {
 
     }
 
-
     public static String[][] crearMatriz() {
         String[][] hotel = new String[10][4];
 
