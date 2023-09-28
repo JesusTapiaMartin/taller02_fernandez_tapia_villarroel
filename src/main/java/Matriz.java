@@ -1,4 +1,4 @@
-public class Main {
+public class Matriz {
     public static void main(String[] args) {
         String[][] hotel = matrizHotel();
         mostrarMatriz(hotel);
